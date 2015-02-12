@@ -24,8 +24,8 @@ directorio_im='/Users/estefaniatalaveramartinez/Desktop/LifeLogging/IbPRIA/Sets'
 %
 % To plot
 %
-%Dataset_ops={'All','Narrative','SenseCam'};
-Dataset_ops={'All'}
+Dataset_ops={'All','Narrative','SenseCam'};
+%Dataset_ops={'All'}
 
 % directorio_results = 'D:/R-Clustering_Results'; % SHARED PC
 %directorio_results = '/Volumes/SHARED HD/R-Clustering Results'; % MARC PC

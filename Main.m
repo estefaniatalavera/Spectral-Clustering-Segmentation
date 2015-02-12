@@ -158,7 +158,7 @@ for i_fold=1:length(folders)
             %% SAVE
             file_save=(['Res_Spec_' folder '_' SimM '_ParamVal_' num2str(Spectral_Param) '_Type_' num2str(Type) '.mat']);
             %save([root_results '/' file_save], 'Results');
-            save(['ResultsFM&JI/' file_save], 'Results');
+            save(['../ResultsFM&JI50.51/' file_save], 'Results');
         end%end Type 
     end%similarity matrix
 end %end folder

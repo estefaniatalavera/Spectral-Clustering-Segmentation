@@ -4,7 +4,7 @@
 % Read Spectral Clustering Results & Plot 
 
 %close all
-addpath('ResultsFM&JI')
+addpath('../Results/SpectralClustering/ResultsFM&JI_511')
 loadParameters;
 
 %% -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
